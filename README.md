@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Krishnav and I'm a 2nd-sem B.Tech student with a keen interest in Computer Science .Currently, I am building my knowledge in various diff. fields.</h3>
+<h2 align="left">Hi 👋! My name is Krishnav and I'm a 2nd-sem B.Tech student with a keen interest in Computer Science .Currently, I am building my knowledge in various diff. fields.</h2>
 
 ###
 
@@ -73,8 +73,8 @@
 </div>
 
 ###
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnav-sarma/krishnav-sarma/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishnav-sarma/krishnav-sarma/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture> -->
+</picture> 
