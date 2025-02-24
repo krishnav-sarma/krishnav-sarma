@@ -50,6 +50,12 @@
 </div>
 
 ###
+<div align="center">  
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
+  <h1>
+Connect With Me 
+  </h1>
+</div>  
 
 <div align="center">
   <a href="https://www.youtube.com/@krishnav_sarma" target="_blank">
