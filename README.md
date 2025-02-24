@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h4 align="left">Hi 👋! My name is Krishnav and I'm a 2nd-sem B.Tech student with a keen interest in Computer Science .Currently, I am building my knowledge in various diff. fields.</h4>
+<h3 align="left">Hi 👋! My name is Krishnav and I'm a 2nd-sem B.Tech student with a keen interest in Computer Science .Currently, I am building my knowledge in various diff. fields.</h3>
 
 ###
 
