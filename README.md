@@ -2,7 +2,11 @@
 <h3 align="left">Hi <img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" alt="Hii" width="110" height="100" />, </h1> My name is Krishnav and I'm a 2nd-sem B.Tech student with a keen interest in Computer Science .Currently, I am building my knowledge in various diff. fields.</h3>
 
 ###
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnav-sarma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=My%20Stats%20" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnav-sarma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="111" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=krishnav-sarma&theme=dark_lover&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
 
 ###
