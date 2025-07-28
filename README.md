@@ -43,6 +43,11 @@ Connect With Me
   <img ===src="https://img.wattpad.com/f800cd0492637521e4720c552bdea66110b21b5d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4b6768366b4e3957424d324171673d3d2d313030333937343333302e313635363037623331616561373464343331313838343332303531382e676966?s=fit&w=720&h=666" width="100%" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishnav-sarma&label=Profile%20views&color=0e75b6&style=flat" alt="krishnav-sarma" />
+</p>
+
+
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnav-sarma/krishnav-sarma/output/github-snake-dark.svg" />
@@ -50,6 +55,3 @@ Connect With Me
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture> 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnav-sarma&label=Profile%20views&color=0e75b6&style=flat" alt="krishnav-sarma" />
-</p>
