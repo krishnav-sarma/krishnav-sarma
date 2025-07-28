@@ -49,3 +49,7 @@ Connect With Me
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishnav-sarma/krishnav-sarma/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture> 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishnav-sarma&label=Profile%20views&color=0e75b6&style=flat" alt="krishnav-sarma" />
+</p>
