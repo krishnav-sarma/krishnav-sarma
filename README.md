@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h3 align="left">Hi <img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" alt="Hii" width="110" height="100" />, </h1> My name is Krishnav and I'm a 2nd-sem B.Tech student with a keen interest in Computer Science .Currently, I am building my knowledge in various diff. fields.</h3>
+<h3 align="left">Hi <img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" alt="Hii" width="110" height="100" />, </h1> My name is Krishnav and I'm a 2nd-year B.Tech student with a keen interest in Computer Science .Currently, I am building my knowledge in various diff. fields.</h3>
 
 ###
 <div align="center">
