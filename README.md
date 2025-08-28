@@ -4,9 +4,7 @@
 ###
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnav-sarma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="111" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=krishnav-sarma&theme=dark_lover&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+
 
 
 ###
