@@ -4,28 +4,30 @@
 
 <div id="hey" align="center">
 <p>
-I'm a 2nd-year B.Tech student with a keen interest in Computer Science .Currently, I am building my knowledge in various different fields.
+I’m a 2nd-year B.Tech student with a strong passion for Computer Science and technology. I enjoy exploring a wide range of topics within the field, from web and mobile development to artificial intelligence and emerging technologies. Currently, I am building my knowledge across different domains, including full-stack development, cloud computing, and open-source contributions, while improving my skills in programming languages such as C, Java, Python, and JavaScript. I actively work on personal projects, participate in coding challenges, and engage with developer communities to broaden my learning and practical experience, preparing myself for a dynamic tech career.
 </div>
 
 
 ##
 
 <div>
-  <img src="[https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/cover-thompson.png](https://github.com/krishnav-sarma/krishnav-sarma/blob/main/Coding%20.gif)" align="right" height="250">
+  <img src="https://github.com/krishnav-sarma/krishnav-sarma/blob/main/Coding%20.gif" align="right" height="250">
+  <p>
+  🔍 Always exploring new tech stacks and AI tools
 
-  <h3 align="left">
-    Hi <img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" alt="Hi" width="50" height="40">
-  </h3>
+  🛠️ Participating in hackathons, coding challenges, and competitions
 
-  <p align="left">
-    🤖 Exploring AI & Retrieval-Augmented Generation (RAG) <br>
-    🌍 Contributing to Open Source & Dev Communities <br>
-    💻 Building Web & Mobile Apps with React, Next.js & Node.js <br>
-    🐦 Currently building my <a href="https://www.instagram.com/krishnav_sarma/" target="_blank">Website</a> <br>
-    🎮 Code, Coffee & Gaming keeps me going 🚀
+  👨‍💻 All of my projects are available at [my website](http://ayanmasood.tech)
+
+  👀 Experimenting with dynamic web apps using React & Next.js
+
+  🎮 Gaming enthusiast
+
+  💻 + ☕ + 🎮 = just breadth happy
+    
+   <br>
   </p>
 </div>
-
 
 
 
@@ -49,9 +51,9 @@ Languages & Tools
 | **Design & UI Tools**| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Express](https://img.shields.io/badge/Adobe_Express-000000?style=for-the-badge&logo=adobecreativecloud&logoColor=white) ![Picsart](https://img.shields.io/badge/Picsart-000000?style=for-the-badge&logo=picsart&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe_Fonts-000000?style=for-the-badge&logo=adobe&logoColor=white) |
 | **Others**           | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white) ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) |
 
-
-
 </div>
+
+
 
 ##
 
@@ -71,18 +73,24 @@ Connect With Me
   <a href="https://discord.com/invite/avAX4XHQsu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+  <a href="https://x.com/krishnav_sarma" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/krishnav-sarma-05109a32b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
 </div>
 
-###
+
+##
+
 ![](https://github-readme-stats.vercel.app/api?username=krishnav-sarma&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=krishnav-sarma&theme=transparent&hide_border=false)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=krishnav-sarma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
+
+##
+
 
 
 <p align="center">
@@ -90,7 +98,6 @@ Connect With Me
 </p>
 
 
-###
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnav-sarma/krishnav-sarma/output/github-snake-dark.svg" />
@@ -99,4 +106,5 @@ Connect With Me
 </picture> 
 </div>
 
+##
 
