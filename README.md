@@ -17,7 +17,7 @@ I’m a 2nd-year B.Tech student with a strong passion for Computer Science and t
 
   🛠️ Participating in hackathons, coding challenges, and competitions
 
-  👨‍💻 All of my projects are available at [my website](http://ayanmasood.tech)
+  👨‍💻 All of my projects are available at [my website](https://github.com/krishnav-sarma))
 
   👀 Experimenting with dynamic web apps using React & Next.js
 
