@@ -11,16 +11,21 @@ I'm a 2nd-year B.Tech student with a keen interest in Computer Science .Currentl
 ##
 
 <div>
- 
-<p align="left">
- 🤖 Exploring AI & Retrieval-Augmented Generation (RAG) <br>
- 🌍 Contributing to Open Source & Dev Communities <br>
- 💻 Building Web & Mobile Apps with React, Next.js & Node.js <br>
- 🐦 Currently building my <a href="https://www.instagram.com/krishnav_sarma/" target="_blank">Website</a> <br>
- 🎮 Code, Coffee & Gaming keeps me going 🚀 <br>
-</p>
+  <img src="[https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/cover-thompson.png](https://github.com/krishnav-sarma/krishnav-sarma/blob/main/Coding%20.gif)" align="right" height="250">
 
+  <h3 align="left">
+    Hi <img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" alt="Hi" width="50" height="40">
+  </h3>
+
+  <p align="left">
+    🤖 Exploring AI & Retrieval-Augmented Generation (RAG) <br>
+    🌍 Contributing to Open Source & Dev Communities <br>
+    💻 Building Web & Mobile Apps with React, Next.js & Node.js <br>
+    🐦 Currently building my <a href="https://www.instagram.com/krishnav_sarma/" target="_blank">Website</a> <br>
+    🎮 Code, Coffee & Gaming keeps me going 🚀
+  </p>
 </div>
+
 
 
 
