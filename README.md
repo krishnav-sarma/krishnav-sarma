@@ -1,4 +1,4 @@
-<img src="https://github.com/krishnav-sarma/krishnav-sarma/blob/main/banner-header.gif" autoplay>
+<img src="https://github.com/krishnav-sarma/krishnav-sarma/blob/main/banner-header.gif" >
 
 
 
