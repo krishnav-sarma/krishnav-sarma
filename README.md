@@ -13,13 +13,13 @@ I’m a 2nd-year B.Tech student with a strong passion for Computer Science and t
 <div>
   <img src="https://github.com/krishnav-sarma/krishnav-sarma/blob/main/Coding%20.gif" align="right" height="250">
   <p>
-  🔍 Always exploring new tech stacks and AI tools
+  🔍 Exploring new tech & AI
 
-  🛠️ Participating in hackathons, coding challenges, and competitions
+  🛠️ Hackathons & coding challenges
 
-  👨‍💻 All of my projects are available at [my website](https://github.com/krishnav-sarma))
+  👨‍💻 Projects on [my website](https://github.com/krishnav-sarma))
 
-  👀 Experimenting with dynamic web apps using React & Next.js
+  👀 React & Next.js experiments
 
   🎮 Gaming enthusiast
 
