@@ -84,19 +84,14 @@ Connect With Me
 </div>
 
 
-##
-
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=krishnav-sarma&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">| -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=krishnav-sarma&theme=transparent&hide_border=false"/>
-
-
+<img src="https://krishnav-streak-stats-six.vercel.app?user=krishnav-sarma&theme=highcontrast&hide_border=true&border_radius=20&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200&background=0D1117&border=EBEBEB)](https://git.io/streak-stats"/>
 
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=krishnav-sarma&theme=radical&no-frame=false&no-bg=true&margin-w=4">
   </img>
 </p> -->
-
 
 ##
 
