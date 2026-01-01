@@ -17,7 +17,7 @@ I’m a 2nd-year B.Tech student with a strong passion for Computer Science and t
 
   🛠️ Active in hackathons, coding challenges.
 
-  👨‍💻 Check out all my projects on [my website.](https://github.com/krishnav-sarma)
+  👨‍💻 Check out all my projects on [my website.](https://krishnav-portfolio.vercel.app/)
 
   👀 Experimenting in React, Next.js & dynamic web apps.
 
